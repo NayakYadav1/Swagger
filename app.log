@@ -167,3 +167,6 @@
 [32minfo[39m: Connected to MongoDB
 [32minfo[39m: Fetched 0 products for page 1
 [32minfo[39m: Fetched 0 products for page 1
+[32minfo[39m: Server running on port 8000
+[32minfo[39m: Connected to MongoDB
+[32minfo[39m: Product added: Mouse
